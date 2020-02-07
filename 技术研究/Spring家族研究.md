@@ -9,13 +9,16 @@
   - 没有代码生成
 - Spring boot Feature
   - @SpringBootApplication
-  - @RestController
-  - @RequestMapping
-  - @Repository
+  - Actuator
+    - health endpoint
+  - deploy
+    - cloud
+    - 
+  - Spring-boot-maven-plugin
 - Spring Modules
   - spring-boot
   - spring-boot-autoconfigure
-  - spring-boot-starters
+  - spring-boot-starters：
   - spring-boot-cli
   - spring-boot-actuator
   - spring-boot-actuator-autoconfigure
@@ -29,7 +32,6 @@
   - metrics
   - health checks
   - externalized configuration
-- features
 - appendix
   - Application Properties
   - Configuration Metadata
@@ -37,30 +39,21 @@
 
 ### Spring Framework
 
-- ioc/di
+- IOC/DI
   - ApplicationContext
 - 配置资源
   - @Configuration
     - proxyBeanMethods
+- Data Access
+  - @Repository
+- Web Servlet
+  - @RestController
+  - RequestMapping
 - 思想
   - 完好的兼容性
   - 尽可能推迟开发人员开发
 
 ### Spring Security
-
-### Spring deploy
-
-### Spring-boot-maven-plugin
-
-## Web Technology
-
-- Hibernate
-- embedded container
-- spring boot
-- Logging Framework
-  - common logging
-- Java Beans
-- JMS
 
 ## Basic
 
