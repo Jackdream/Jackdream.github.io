@@ -74,7 +74,7 @@
 
 - [Spring Cloud Config](https://cloud.spring.io/spring-cloud-static/spring-cloud-config/2.2.1.RELEASE/reference/html/)
 - Spring Cloud Vault
-- Spring Cloud Netflix
+- [Spring Cloud Netflix](https://cloud.spring.io/spring-cloud-static/spring-cloud-netflix/2.2.1.RELEASE/reference/html/)
   - Service Discovery
   - Circuit Breaker
   - Declarative REST Client
