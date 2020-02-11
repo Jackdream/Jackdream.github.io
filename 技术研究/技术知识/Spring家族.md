@@ -2,6 +2,8 @@
 
 > 该文档描述了spring家族所有成员
 
+### [Spring Guides](https://spring.io/guides)
+
 ### [Spring Boot](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/html/)
 
 - goals
@@ -21,9 +23,16 @@
   - Json
     - jackson
     - gson
+  - Testing
+    - Unit Testing
+    - Integration Testing
+      - goals
+      - TestContext
 - Spring boot Actuator
   - health endpoint
 - Spring Test
+  - @SpringBootTest
+  - @ContextConfiguration
 - Deploy
   - cloud
   - docker
@@ -50,6 +59,14 @@
   - Application Properties
   - Configuration Metadata
   - Auto-configuration
+
+
+
+#### Testing
+
+- Spring boot Testing
+  - Spring Testing
+- [JUnit5](https://junit.org/junit5/)
 
 ### [Spring Framework](https://docs.spring.io/spring/docs/5.2.3.RELEASE/spring-framework-reference/)
 
@@ -83,3 +100,13 @@
   - Router and Filter
 - sample
   - [configserver](https://github.com/spring-cloud-samples/configserver)
+
+
+
+### 开发
+
+- 数据持久层接口
+- 数据持久层实现
+- 用户业务层接口
+- 用户业务层实现
+- 客户端表现层
