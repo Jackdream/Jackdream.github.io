@@ -4,6 +4,8 @@
 
 ### [Spring Guides](https://spring.io/guides)
 
+### [Spring Initializr](https://start.spring.io/)
+
 ### [Spring Boot](https://docs.spring.io/spring-boot/docs/2.2.4.RELEASE/reference/html/)
 
 - goals
@@ -101,12 +103,31 @@
 - sample
   - [configserver](https://github.com/spring-cloud-samples/configserver)
 
+### 思考方式
 
+- 原理出发
+  - 技术从哪里来
+  - 技术怎么衍生
+  - 技术的使用方式
+  - 技术之间的关联技术
+- 项目出发
+- 从文档出发：
+  - 了解技术分布特征
+  - 了解其他资料（技术圈）的机会
+- api角度
+- 设计角度
+- 基于已有知识模型构建
+- 不基于已有知识模型构建
 
-### 开发
+### 技术特点
 
-- 数据持久层接口
-- 数据持久层实现
-- 用户业务层接口
-- 用户业务层实现
-- 客户端表现层
+- 使用annotation
+- 找不到实现模型
+
+### WEB框架的产生由来
+
+### WEB规范
+
+### Leanring
+
+- 步步为营：需要综合看资料，尽可能覆盖更多的资料，而不是就某一个点进行深入专研
