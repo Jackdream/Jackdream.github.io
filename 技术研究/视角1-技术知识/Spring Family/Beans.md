@@ -9,14 +9,20 @@
 
 
 
+Dependencies and Configuration in Detail
 
 
 
 
-### 语言提炼
+
+
+
+
+
+### 语言提炼/收集
 
 - Context
 - Reader
 - Factory
-- Registry
+- Registry: 注册表
 
