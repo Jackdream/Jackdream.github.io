@@ -66,6 +66,7 @@
   - createCache
   - destroyCache
   - getCache()
+- Cache provider
 - JCache
 - 
 
