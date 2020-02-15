@@ -9,7 +9,17 @@
 
 
 
-Dependencies and Configuration in Detail
+- Dependencies
+  - Dependency injection
+  - Dependencies and Configuration in Detail
+
+
+
+- Method injection
+
+
+
+
 
 
 
