@@ -1,33 +1,19 @@
 # 技术人物列表
 
 - Rod Johnson
-
 - Gavin King, the creator of Hibernate
-
 - **戈特弗里德·威廉·莱布尼茨（Gottfried Wilhelm Leibniz，1646年7月1日－1716年11月14日）**
-
 - **乔治·布尔（George Boole，1815.11.2～1864）**
-
 - **弗里德里希·路德维希·戈特洛布·弗雷格（德语：Friedrich Ludwig Gottlob Frege，1848年11月8日－1925年7月26日）**
-
 - **格奥尔格·康托尔（Cantor，Georg Ferdinand Ludwig Philipp，1845.3.3-1918.1.6）**
-
 - **戴维·希尔伯特**，又译**大卫·希尔伯特，D.（David Hilbert，1862～1943）**
-
 - **库尔特·哥德尔（Kurt Gödel）（1906年4月28日—1978年1月14日）**
-
 - **[艾伦·麦席森·图灵](https://en.wikipedia.org/wiki/Alan_Turing)（Alan Mathison Turing，1912年6月23日－1954年6月7日）**
-
 - [王垠](http://www.yinwang.org/)
-
 - [刘未鹏](http://mindhacks.cn/)
-
 - [阮一峰](http://www.ruanyifeng.com/blog/2011/10/dennis_ritchie.html)
-
 - 邹欣
-
 - [知乎创始人周源](https://www.zhihu.com/question/19551593)
-
 - **丁香园CTO [冯大辉](http://www.dbanotes.net/)**
-
-  
+- [RednaxelaFX](https://www.iteye.com/blog/user/rednaxelafx)
+- [peng_gong](http://lucida.me/

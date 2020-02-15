@@ -84,6 +84,19 @@
   - @RestController
   - RequestMapping
 - Enviroment / PropertySource
+- Container
+  - ApplicationContext : instantiating, configuring, and assembling the beans
+  - Configuration metadata
+    - xml
+    - Java annotation
+    - Java code
+- Bean Overview
+- Bean Definition Inheritance
+  - construtor arguments
+  - property values
+  - container-specific information
+    - initialization method
+    - static factory method nameEA
 - 思想
   - 完好的兼容性
   - 尽可能推迟开发人员开发
