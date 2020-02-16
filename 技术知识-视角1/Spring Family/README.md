@@ -1,3 +1,33 @@
+# README
+
+## Practice项目
+
+​	practice项目用于对spring家族进行实践
+
+### 项目结构
+
+#### 实践项目
+
+- spring-bean 针对spring bean实践
+- spring-web-mvc 针对spring mvc实践
+- spring-test 针对对spring 测试实践
+- spring-cache 针对对spring缓存实践
+- iot-container 针对是spring容器实践
+
+#### 教程代码项目
+
+- accessing-data-mysql 访问数据库实践
+- actuator-service actuator实践
+- design-pattern spring的设计模式实践
+- gs-async-method 异步方法实践
+- gs-messaging-jms 
+- gs-service-registration-and-discovery
+- gs-testing-web 测试
+- gs-testing-web
+- swagger-demo
+
+
+
 ## [Spring Family](https://spring.io/)
 
 > 该文档描述了spring家族所有成员
@@ -71,35 +101,7 @@
   - Spring Testing
 - [JUnit5](https://junit.org/junit5/)
 
-### [Spring Framework](https://docs.spring.io/spring/docs/5.2.3.RELEASE/spring-framework-reference/)
-
-- IOC/DI
-  - ApplicationContext
-- 配置资源
-  - @Configuration
-    - proxyBeanMethods
-- Data Access
-  - @Repository
-- Web Servlet
-  - @RestController
-  - RequestMapping
-- Enviroment / PropertySource
-- Container
-  - ApplicationContext : instantiating, configuring, and assembling the beans
-  - Configuration metadata
-    - xml
-    - Java annotation
-    - Java code
-- Bean Overview
-- Bean Definition Inheritance
-  - construtor arguments
-  - property values
-  - container-specific information
-    - initialization method
-    - static factory method nameEA
-- 思想
-  - 完好的兼容性
-  - 尽可能推迟开发人员开发
+- - 
 
 ### Spring Security
 
