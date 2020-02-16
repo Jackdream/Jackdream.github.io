@@ -18,6 +18,7 @@
 - The Ioc Container
   - Bean Overview
   - Bean Definition Inheritance
+- Validation, Data Binding, and Type Conversion
 - Spring Expression Language(SpEL)
 
 ### Spring Framework 特点
@@ -29,7 +30,7 @@
 
 
 
-Java expression language
+Java Expression Language
 
 - OGNL
 - MVEL
@@ -41,4 +42,9 @@ Java expression language
 ### 语言提炼/收集
 
 - Template
+
+
+
+- SpEL
+  - Evaluation
 
