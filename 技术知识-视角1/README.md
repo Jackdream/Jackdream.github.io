@@ -27,18 +27,6 @@
 
 - TCP/IP的连接和释放
 
-## Java Basic
-
-- annotation
-  - 
-- jar manager
-
-## Java Design Pattern
-
-- 代理模式
-- 数据结构
-  - B-Tree
-
 ## Java Code Clean
 
 - if-else改进
