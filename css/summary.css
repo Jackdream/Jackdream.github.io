@@ -3,3 +3,7 @@ button.tag{
     --bs-btn-padding-x: .5rem; 
     --bs-btn-font-size: .75rem;
 }
+
+#key>.btn:not(:last-child) {
+    margin-right: 0.5rem;
+  }
