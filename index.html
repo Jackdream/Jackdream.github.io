@@ -43,10 +43,36 @@
         <button class="nav-link" id="article-tab" data-bs-toggle="tab" data-bs-target="#profile-tab-pane" type="button"
           role="tab" aria-controls="profile-tab-pane" aria-selected="false">笔记</button>
       </li>
+      <li class="nav-item" role="presentation">
+        <button class="nav-link" id="topic-tab" data-bs-toggle="tab" data-bs-target="#topic-tab-pane" type="button"
+          role="tab" aria-controls="topic-tab-pane" aria-selected="false">主题</button>
+      </li>
     </ul>
     <div class="tab-content" id="myTabContent">
       <div class="tab-pane fade show active" id="home-tab-pane" role="tabpanel" aria-labelledby="home-tab" tabindex="0">
         <ul class="list-group">
+          <li class="list-group-item" aria-current="true">
+            <div>        
+              <p>
+               问：sofr等于/或高于effr，说明什么？
+              </p>
+              <p>
+                <small>sofr是老美的某中小银行拿到手里等国债到回购市场做抵押，借出资金，所需的利率。（有国债做抵押物）</small>
+              </p>
+              <p>
+                <small>effr是银行间拆借利率，无抵押/担保物</small>
+              </p>
+              <p>
+                <small>所以，有担保的sofr借款利率必定低，无担保的effr必定高于sofr。但如果情况反了，说明什么？说明某银行拿着手里等国债去回购市场做抵押借出资金的难度增大，意味着银行之间互相猜忌，互相之间信任度降低。为啥用国债做抵押，还无法信任？因为，比如想借钱的这家银行明显要倒了，所以其他银行怕借给它钱。</small>
+              </p>
+              <div>
+                <a href="#" class="btn btn-outline-primary  btn-sm mb-2">sofr</a>
+                <a href="#" class="btn btn-outline-primary  btn-sm mb-2">effr</a>
+                <a href="#" class="btn btn-outline-primary  btn-sm mb-2">银行</a>
+                <a href="#" class="btn btn-outline-primary  btn-sm mb-2">利率</a>
+              </div>
+            </div>
+          </li>
           <li class="list-group-item" aria-current="true">
             <div>
               <p>
@@ -515,6 +541,20 @@
           </a>
         </div>
       </div>
+      <div class="tab-pane fade show active" id="topic-tab-pane" role="tabpanel" aria-labelledby="topic-tab"
+        tabindex="0">
+        <div class="row gx-5">
+          <div class="col-sm-6 mb-3">
+            <div class="card">
+              <div class="card-body">
+                <h5 class="card-title">美元重置</h5>
+                <p class="card-text">美元将在2024年开始美元重置，那么美国将经历怎么样的重置过程？</p>
+                <a href="/topic/001.html" class="btn btn-primary">时间线</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
     </div>
 
 
@@ -592,19 +632,6 @@
         </div>
       </li>
     </ul>
-
-    <h4>主题</h4>
-    <div class="row gx-5">
-      <div class="col-sm-6 mb-3">
-        <div class="card">
-          <div class="card-body">
-            <h5 class="card-title">美元重置</h5>
-            <p class="card-text">美元将在2024年开始美元重置，那么美国将经历怎么样的重置过程？</p>
-            <a href="/topic/001.html" class="btn btn-primary">时间线</a>
-          </div>
-        </div>
-      </div>
-    </div>
 
 
     <hr>
